@@ -1,0 +1,9 @@
+connect local to remote
+
+dastoore ezafe kardane motasel kardane local be remote be soorate zire:
+
+git remote add origin https://github.com/AhadKhademi/test-project.git
+
+dastoore bala mige ke git yrk repository remote(yel etesale remote) mikham 
+add koni be name (origin(esme delkhah vali mamoolan hamoon origin mizaran))
+be in address
