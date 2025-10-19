@@ -7,3 +7,13 @@ git remote add origin https://github.com/AhadKhademi/test-project.git
 dastoore bala mige ke git yrk repository remote(yel etesale remote) mikham 
 add koni be name (origin(esme delkhah vali mamoolan hamoon origin mizaran))
 be in address
+
+bad az inke commit ro anjam dadim baiad dastoore zir ro vared konim ta taghirat
+dar remote repository ijad shavad
+
+git push -u origin master
+
+origin dar dastoore bala esme remote emoon hastesh
+
+ba estefade az dastoore bala darim taghirat ro az local hol midim be remote
+yani github
