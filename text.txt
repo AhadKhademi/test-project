@@ -17,3 +17,7 @@ origin dar dastoore bala esme remote emoon hastesh
 
 ba estefade az dastoore bala darim taghirat ro az local hol midim be remote
 yani github
+
+ba in kar yek safhe ehraze hoviat bala miad ke rooie auth... click mikonim va ba estefade
+az browser takmilesh mikonim va vaghti refresh konim mibinim ke taghirat dar github
+emal shode
